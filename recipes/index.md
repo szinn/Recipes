@@ -11,5 +11,5 @@ dateCreated: 2023-08-12T13:47:01.584Z
 # Recipes
 
 # Breakfast
-* [[Martha's Granola]]
-* [[Pancakes]]
+* [Martha's Granola](/recipes/breakfast/marthas-granola.md)
+* [Pancakes](/recipes/breakfast/pancakes.md)

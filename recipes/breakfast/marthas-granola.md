@@ -27,6 +27,3 @@
 * Bake for 15 minutes, remove and stir well
 * Add group 2 ingredients to granola and bake for three more 15 minute sessions, stirring well each time.
 * Remove granola from oven and allow to cool, then add raisins
-
-
-\
