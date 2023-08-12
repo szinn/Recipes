@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "8bd0fdd7b9ad0680",
+    "type": "split",
+    "children": [
+      {
+        "id": "50fd38e59fbd7331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c96f83769cf7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0a6030e2a802042",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1db881421b9357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fef119d2dc84e8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d64742c5418f9f5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51caad5cee568de2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c90c669787b5aed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aed4c8177442c220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702148d6765002ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b52208b4ee0d2878",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f04cb11adfeb4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffbb11482b768f0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "70c96f83769cf7e6",
+  "lastOpenFiles": [
+    "recipes/breakfast/Pancakes.md",
+    "recipes/breakfast/Pancakes.mdx",
+    "recipes/breakfast/Martha's Granola.md",
+    "recipes/index.md",
+    "marthas-granola.md",
+    "recipes/breakfast/pancakes.md",
+    "recipes/breakfast/marthas-granola.md",
+    "recipes/breakfast"
+  ]
+}

@@ -10,4 +10,6 @@ dateCreated: 2023-08-12T13:47:01.584Z
 
 # Recipes
 
-Here are our recipes
+# Breakfast
+* [[Martha's Granola]]
+* [[Pancakes]]
