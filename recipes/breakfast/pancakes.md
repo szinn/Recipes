@@ -1,13 +1,3 @@
----
-title: Pancakes
-description: 
-published: true
-date: 2023-08-12T16:57:25.932Z
-tags: 
-editor: markdown
-dateCreated: 2023-08-12T16:49:31.844Z
----
-
 # Pancakes
 
 ## Ingredients
