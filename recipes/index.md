@@ -9,7 +9,7 @@
 
 * [Glory Bowl](/recipes/salads/glory-bowl.md)
 * [Greek Salad](/recipes/salads/greek-salad.md)
-* [Sesame Ginger Dressing](/recipes/salads/sesame-giner-dressing.md)
+* [Sesame Ginger Dressing](/recipes/salads/sesame-ginger-dressing.md)
 
 ## Soups
 
@@ -49,7 +49,7 @@
 
 ## Sides
 
-* [Dried Green Beans](/recipes/sides/fried-green-beans.md)
+* [Fried Green Beans](/recipes/sides/fried-green-beans.md)
 
 ## Desserts
 
