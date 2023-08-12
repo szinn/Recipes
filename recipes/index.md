@@ -21,7 +21,7 @@
 ## Dinners
 
 * [Roasted Tomato Rigatoni](/recipes/dinners/roasted-tomato-rigatoni.md)
-* [Spicy Thai Tofu with Red Bell Peppers](/recipes/dinners/spicy-thai-tofu-with-red-bell-peppers-wdmPD560qu)
+* [Spicy Thai Tofu with Red Bell Peppers](/recipes/dinners/spicy-thai-tofu-with-red-bell-peppers.md)
 * [Lasagna](/recipes/dinners/lasagna.md)
 * [Grilled Jumbo Shrimp](/recipes/dinners/grilled-jumbo-shrimp.md)
 * [Sausage, Peppers, Onions, and Potatoes in the Oven](/recipes/dinners/sausage-peppers-onions-and-potatoes-in-the-oven.md)
