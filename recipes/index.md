@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2023-08-28T02:07:46.981Z
+date: 2023-09-07T01:19:42.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-12T13:47:01.584Z
@@ -128,3 +128,4 @@ dateCreated: 2023-08-12T13:47:01.584Z
 * [Dan Dan Noodles](https://thewoksoflife.com/dan-dan-noodles/)
 * [General Tso’s Chicken](https://basicswithbabish.co/basicsepisodes/generaltsoschicken)
 * [Korean-Style Mapo Tofu](https://shop.momofuku.com/blogs/recipes/korean-style-mapo-tofu-over-noodles?utm_source=Engaged+60+Day+w%2Fo+Gmail&utm_medium=email&utm_campaign=082723+-++%40jamesyworld+Recipe+%2801H8Q4MZJ9Z9AQ0RP4ZZHG3D55%29&utm_klaviyo_id=01H01F5DFN8DW6VXESDYNAD6P2&_kx=sTzuSZDeVUkLvV-NtOOPp4evXoN4BSJBvzzLTRVPl20%3D.Xmer2E)
+* [Red Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
