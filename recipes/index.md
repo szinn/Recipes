@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2023-09-07T01:19:42.984Z
+date: 2023-10-17T11:28:00.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-12T13:47:01.584Z
@@ -69,6 +69,7 @@ dateCreated: 2023-08-12T13:47:01.584Z
 * [Gluten-free Banana Muffins](/recipes/desserts/gluten-free-banana-muffins.md)
 * [Chocolate Chip Cookies](/recipes/desserts/chocolate-chip-cookies.md)
 * [Chocolate Meringue Cookies](/recipes/desserts/chocolate-meringue-cookies.md)
+* [Pumpkin Pie](/recipes/desserts/pumpkin-pie.md)
 * [Guten-free Desserts](http://www.onegreenplanet.org/vegan-food/soy-free-gluten-free-and-dairy-free-desserts/)
 
 ## Snacks
