@@ -2,7 +2,7 @@
 title: butter-chicken
 description: 
 published: true
-date: 2023-11-19T23:37:14.635Z
+date: 2023-11-19T23:38:21.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:47.461Z
@@ -12,7 +12,7 @@ dateCreated: 2023-11-01T01:49:47.461Z
 
 ## Ingredients
 
-* 1 pound boneless skinless chicken breast, cut into bite size chunks (or 2x19 oz cans of chickpeas)
+* 1 pound boneless skinless chicken breast, cut into bite size chunks (or 2x19 oz cans of chickpeas plus 1/4 cup stock)
 * 1/2 onion, finely diced
 * 1 large zucchini, diced
 * 1 large carrot, sliced
