@@ -2,10 +2,10 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2023-10-17T11:28:00.014Z
+date: 2023-12-17T15:44:42.621Z
 tags: 
 editor: markdown
-dateCreated: 2023-08-12T13:47:01.584Z
+dateCreated: 2023-11-01T01:49:27.469Z
 ---
 
 # Recipes
@@ -20,6 +20,7 @@ dateCreated: 2023-08-12T13:47:01.584Z
 * [Glory Bowl](/recipes/salads/glory-bowl.md)
 * [Greek Salad](/recipes/salads/greek-salad.md)
 * [Sesame Ginger Dressing](/recipes/salads/sesame-ginger-dressing.md)
+* [Kale Salad Dressing](/recipes/salads/kale-salad-dressing.md)
 
 ## Soups
 
