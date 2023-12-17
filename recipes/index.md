@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2023-12-17T15:44:42.621Z
+date: 2023-12-17T15:51:13.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:27.469Z
@@ -57,6 +57,7 @@ dateCreated: 2023-11-01T01:49:27.469Z
 * [Grilled Balsamic and Orange Marmalade Chicken](http://www.kensfoods.com/recdetail.php?id=148)
 * [Rice Vermicelli](http://www.saucy-spatula.com/recipes/singapore-style-rice-vermicelli/Singapore-style)
 * [Sheet Pan Gnocchi with Sausage and Green Beans](/recipes/miscellaneous/sheet-pan-gnocchi-with-sausage-and-green-beans.md)
+* [Vegan Jambalaya](/recipes/dinners/vegan-jambalaya.md)
 
 ## Sides
 
