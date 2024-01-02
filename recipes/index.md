@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2023-12-17T15:51:13.314Z
+date: 2024-01-02T02:12:09.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:27.469Z
@@ -80,6 +80,7 @@ dateCreated: 2023-11-01T01:49:27.469Z
 * [Sugar Nuts](/recipes/snacks/sugar-nuts.md)
 * [Hummus](/recipes/snacks/hummus.md)
 * [Holiday Guacamole](/recipes/snacks/holiday-guacamole.md)
+* [Tamarind Sauce](/recipes/snacks/tamarind-sauce.md)
 
 ## Drinks
 
