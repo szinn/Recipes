@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2024-02-17T21:14:12.991Z
+date: 2024-03-18T21:07:51.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:27.469Z
@@ -59,6 +59,7 @@ dateCreated: 2023-11-01T01:49:27.469Z
 * [Sheet Pan Gnocchi with Sausage and Green Beans](/recipes/miscellaneous/sheet-pan-gnocchi-with-sausage-and-green-beans.md)
 * [Vegan Jambalaya](/recipes/dinners/vegan-jambalaya.md)
 * [Ground Pork Tacos](/recipes/dinners/ground-pork-tacos.md)
+* [Incredible Vegan Thai Green Curry](https://rainbowplantlife.com/vegan-thai-green-curry/#recipe)
 
 ## Sides
 
