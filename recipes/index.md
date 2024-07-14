@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2024-03-18T21:07:51.842Z
+date: 2024-07-14T14:32:27.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:27.469Z
@@ -74,7 +74,8 @@ dateCreated: 2023-11-01T01:49:27.469Z
 * [Chocolate Chip Cookies](/recipes/desserts/chocolate-chip-cookies.md)
 * [Chocolate Meringue Cookies](/recipes/desserts/chocolate-meringue-cookies.md)
 * [Pumpkin Pie](/recipes/desserts/pumpkin-pie.md)
-* [Guten-free Desserts](http://www.onegreenplanet.org/vegan-food/soy-free-gluten-free-and-dairy-free-desserts/)
+* [Gluten-free Desserts](http://www.onegreenplanet.org/vegan-food/soy-free-gluten-free-and-dairy-free-desserts/)
+* [Gluten-free Zucchini Loaf](https://meaningfuleats.com/gluten-free-zucchini-bread/)
 
 ## Snacks
 
