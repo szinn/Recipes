@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: true
-date: 2025-02-04T13:00:23.848Z
+date: 2025-03-02T01:41:05.768Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T01:49:27.469Z
@@ -78,6 +78,7 @@ dateCreated: 2023-11-01T01:49:27.469Z
 * [Gluten-free Desserts](http://www.onegreenplanet.org/vegan-food/soy-free-gluten-free-and-dairy-free-desserts/)
 * [Gluten-free Zucchini Loaf](https://meaningfuleats.com/gluten-free-zucchini-bread/)
 * [Gluten-free Cinnabon Copycat](https://recreatinghappiness.com/breakfast-recipes/gluten-free-cinnabon-copycat-cinnamon-roll-recipe-updated-and-now-easier-to-make/)
+* [Imperial Tart Squares](/recipes/desserts/imperial-tart-squares.md)
 
 ## Snacks
 
