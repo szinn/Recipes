@@ -1,11 +1,11 @@
 ---
 title: WilZinn World
 description: The Kingdom
-published: true
-date: 2023-08-12T13:50:21.691Z
+published: 1
+date: 2025-04-06T13:20:33.950Z
 tags: 
 editor: markdown
-dateCreated: 2023-08-12T13:13:35.887Z
+dateCreated: 2025-04-06T13:13:27.302Z
 ---
 
 # WilZinn World
@@ -13,3 +13,4 @@ dateCreated: 2023-08-12T13:13:35.887Z
 Welcome to the kingdom!
 
 [Recipes](/recipes/index)
+[Foobar](/recipes/index)
