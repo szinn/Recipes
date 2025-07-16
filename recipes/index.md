@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2025-07-16T18:20:49.805Z
+date: 2025-07-16T18:23:00.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -61,7 +61,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Vegan Jambalaya](/recipes/dinners/vegan-jambalaya.md)
 * [Ground Pork Tacos](/recipes/dinners/ground-pork-tacos.md)
 * [Incredible Vegan Thai Green Curry](https://rainbowplantlife.com/vegan-thai-green-curry/#recipe)
-* [Sweet Potato Shepard's Pie](/recipes/dinners/sheppards-pie.md)
+* [Sweet Potato Shepherd's Pie](/recipes/dinners/sheppards-pie.md)
 
 ## Sides
 
