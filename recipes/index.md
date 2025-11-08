@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2025-10-09T10:31:33.945Z
+date: 2025-11-08T21:25:36.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -63,6 +63,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Incredible Vegan Thai Green Curry](https://rainbowplantlife.com/vegan-thai-green-curry/#recipe)
 * [Sweet Potato Shepherd's Pie](/recipes/dinners/sheppards-pie.md)
 * [Mulligatawny Stew](/recipes/dinners/mulligatawny-stew.md)
+* [Kung Pao Spicy Chicken](/recipes/dinners/kung-pao-spicy-chicken.md)
 
 ## Sides
 
