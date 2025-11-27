@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2025-11-15T18:55:59.719Z
+date: 2025-11-27T01:13:28.896Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -65,6 +65,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Mulligatawny Stew](/recipes/dinners/mulligatawny-stew.md)
 * [Kung Pao Spicy Chicken](/recipes/dinners/kung-pao-spicy-chicken.md)
 * [General Tso's Chicken](/recipes/dinners/general-tso-chicken.md)
+* [Sizzling Szechuan Chicken Skillet](/recipes/dinners/sizzling-szechuan-chicken-skillet.md)
 
 ## Sides
 
