@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2025-11-27T01:13:28.896Z
+date: 2025-12-20T02:21:07.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -66,6 +66,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Kung Pao Spicy Chicken](/recipes/dinners/kung-pao-spicy-chicken.md)
 * [General Tso's Chicken](/recipes/dinners/general-tso-chicken.md)
 * [Sizzling Szechuan Chicken Skillet](/recipes/dinners/sizzling-szechuan-chicken-skillet.md)
+* [Pad Thai](/recipes/dinners/pad-thai.md)
 
 ## Sides
 
