@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2025-12-20T02:21:07.477Z
+date: 2026-01-01T19:24:43.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -85,6 +85,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Gluten-free Zucchini Loaf](https://meaningfuleats.com/gluten-free-zucchini-bread/)
 * [Gluten-free Cinnabon Copycat](https://recreatinghappiness.com/breakfast-recipes/gluten-free-cinnabon-copycat-cinnamon-roll-recipe-updated-and-now-easier-to-make/)
 * [Imperial Tart Squares](/recipes/desserts/imperial-tart-squares.md)
+* [Apple Crisp](/recipes/desserts/apple-crisp.md)
 
 ## Snacks
 
