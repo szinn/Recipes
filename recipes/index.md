@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2026-01-08T21:27:56.759Z
+date: 2026-01-19T11:11:53.982Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -68,6 +68,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Sizzling Szechuan Chicken Skillet](/recipes/dinners/sizzling-szechuan-chicken-skillet.md)
 * [Pad Thai](/recipes/dinners/pad-thai.md)
 * [Kuku Paka Curry Chicken](/recipes/dinners/kuku-paka.md)
+* [Air Fryer Korean Fried Chicken](/recipes/dinners/air-fryer-korean-fried-chicken.md)
 
 ## Sides
 
