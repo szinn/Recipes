@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2026-01-19T11:11:53.982Z
+date: 2026-02-13T02:10:17.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -26,6 +26,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 
 * [Hearty Spiced Turkey Soup](/recipes/soups/hearty-spiced-turkey-soup.md)
 * [Hot and Sour Soup](https://www.allrecipes.com/recipe/13185/chinese-spicy-hot-and-sour-soup/)
+* [Hot and Sour Soup](https://www.foodnetwork.com/recipes/food-network-kitchen/hot-and-sour-soup-21873915) - This one is tasty!
 * [Mulligatawny Soup](https://thewanderlustkitchen.com/indian-mulligatawny-soup)
 * [Soup with Potatoes and Bacon](/recipes/soups/potato-bacon-soup.md)
 * [Slow Cooker Corn and Potato Chowder](https://slowcookergourmet.net/slow-cooker-corn-and-potato-chowder/)
