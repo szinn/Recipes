@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2026-02-13T02:10:17.860Z
+date: 2026-04-19T11:20:38.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -149,3 +149,15 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [General Tso’s Chicken](https://basicswithbabish.co/basicsepisodes/generaltsoschicken)
 * [Korean-Style Mapo Tofu](https://shop.momofuku.com/blogs/recipes/korean-style-mapo-tofu-over-noodles?utm_source=Engaged+60+Day+w%2Fo+Gmail&utm_medium=email&utm_campaign=082723+-++%40jamesyworld+Recipe+%2801H8Q4MZJ9Z9AQ0RP4ZZHG3D55%29&utm_klaviyo_id=01H01F5DFN8DW6VXESDYNAD6P2&_kx=sTzuSZDeVUkLvV-NtOOPp4evXoN4BSJBvzzLTRVPl20%3D.Xmer2E)
 * [Red Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
+* [Chicken au Poivre](https://www.recipetineats.com/french-chicken-au-poivre-sauce)
+* [Homemade Chewy Granola Bars](https://www.thesproutinghomestead.com/homemade-chewy-granola-bars)
+* [Onion Ring Chips](https://www.allrecipes.com/viral-onion-ring-chips-trend-11695923)
+* [Protein Peanut Butter Brownie Batter](https://damneasyrecipes.com/protein-peanut-butter-brownie-batter-cottage-cheese/)
+* [Beef Bulgogi](https://theeastcoastkitchen.com/beef-bulgogi-that-cooks-in-minutes/)
+* [Easy Chickpea Curry](https://downshiftology.com/recipes/chickpea-curry/)
+* [No Bake Peanut Butter Bars](https://sammibrondo.com/no-bake-peanut-butter-bars/)
+* [Easy Peanut Butter Protein Cookie Dough](https://healthykitchen.com/easy-peanut-butter-protein-cookie-dough-high-protein-healthy-dessert/)
+* [Thai Peanut Curry Noodles](https://cheffatty.com/recipes/thai-peanut-curry-noodles/)
+* [Dark Chocolate Brownies](https://organicallyaddison.com/dark-chocolate-brownies)
+* [Peanut Gochujang Chili Noodles](https://hermanathome.com/spicy-gochujang-peanut-noodles/)
+* [Greek Yogurt Brownies](https://organicallyaddison.com/greek-yogurt-brownies/)
