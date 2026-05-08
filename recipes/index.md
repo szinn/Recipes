@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2026-04-19T11:20:38.253Z
+date: 2026-05-08T10:14:14.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -97,6 +97,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Hummus](/recipes/snacks/hummus.md)
 * [Holiday Guacamole](/recipes/snacks/holiday-guacamole.md)
 * [Tamarind Sauce](/recipes/snacks/tamarind-sauce.md)
+* [4-Ingredient Single Serve Protein Brownie](/recipes/snacks/4-ingredient-protein-brownie.md)
 
 ## Drinks
 
