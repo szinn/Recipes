@@ -2,7 +2,7 @@
 title: Recipes
 description: Our Recipes
 published: 1
-date: 2026-05-08T10:14:14.502Z
+date: 2026-07-06T20:10:10.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T13:13:30.067Z
@@ -70,6 +70,7 @@ dateCreated: 2025-04-06T13:13:30.067Z
 * [Pad Thai](/recipes/dinners/pad-thai.md)
 * [Kuku Paka Curry Chicken](/recipes/dinners/kuku-paka.md)
 * [Air Fryer Korean Fried Chicken](/recipes/dinners/air-fryer-korean-fried-chicken.md)
+* [Street-Style Peanut Butter Chicken Curry](/recipes/dinners/street-style-pb-chicken-curry.md)
 
 ## Sides
 
