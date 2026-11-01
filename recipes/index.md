@@ -2,7 +2,7 @@
 title: Recipes
 description: ''
 published: true
-date: '2026-11-01T20:58:36.962Z'
+date: '2026-11-01T21:00:15.849Z'
 tags: []
 editor: markdown
 dateCreated: '2025-04-06T13:13:30.067Z'
@@ -58,7 +58,7 @@ dateCreated: '2025-04-06T13:13:30.067Z'
 * [Carmelized Pork Bowls](https://www.recipetineats.com/vietnamese-caramelised-pork-bowls/)
 * [Grilled Balsamic and Orange Marmalade Chicken](http://www.kensfoods.com/recdetail.php?id=148)
 * [Rice Vermicelli](http://www.saucy-spatula.com/recipes/singapore-style-rice-vermicelli/Singapore-style)
-* [Sheet Pan Gnocchi with Sausage and Green Beans](/recipes/miscellaneous/sheet-pan-gnocchi-with-sausage-and-green-beans.md)
+* [Sheet Pan Gnocchi with Sausage and Green Beans](/recipes/dinners/sheet-pan-gnocchi-with-sausage-and-green-beans.md)
 * [Vegan Jambalaya](/recipes/dinners/vegan-jambalaya.md)
 * [Ground Pork Tacos](/recipes/dinners/ground-pork-tacos.md)
 * [Incredible Vegan Thai Green Curry](https://rainbowplantlife.com/vegan-thai-green-curry/#recipe)
