@@ -1,11 +1,11 @@
 ---
 title: Recipes
-description: Our Recipes
-published: 1
-date: 2026-10-18T10:27:39.544Z
-tags: 
+description: ''
+published: true
+date: '2026-11-01T20:58:36.962Z'
+tags: []
 editor: markdown
-dateCreated: 2025-04-06T13:13:30.067Z
+dateCreated: '2025-04-06T13:13:30.067Z'
 ---
 
 # Recipes
