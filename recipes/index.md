@@ -2,7 +2,7 @@
 title: Recipes
 description: ''
 published: true
-date: '2026-11-01T21:00:15.849Z'
+date: '2026-11-10T14:27:23.886Z'
 tags: []
 editor: markdown
 dateCreated: '2025-04-06T13:13:30.067Z'
@@ -72,6 +72,7 @@ dateCreated: '2025-04-06T13:13:30.067Z'
 * [Air Fryer Korean Fried Chicken](/recipes/dinners/air-fryer-korean-fried-chicken.md)
 * [Street-Style Peanut Butter Chicken Curry](/recipes/dinners/street-style-pb-chicken-curry.md)
 * [Singapore Noodles](/recipes/dinners/singapore-noodles.md)
+* [Homemade Baked Beans with Bacon](/recipes/dinners/homemade-baked-beans.md)
 
 ## Sides
 
