@@ -2,7 +2,7 @@
 title: Recipes
 description: ''
 published: true
-date: '2026-11-10T14:27:58.257Z'
+date: '2026-11-19T00:26:22.511Z'
 tags: []
 editor: markdown
 dateCreated: '2025-04-06T13:13:30.067Z'
@@ -73,6 +73,7 @@ dateCreated: '2025-04-06T13:13:30.067Z'
 * [Street-Style Peanut Butter Chicken Curry](/recipes/dinners/street-style-pb-chicken-curry.md)
 * [Singapore Noodles](/recipes/dinners/singapore-noodles.md)
 * [Homemade Baked Beans with Bacon](https://www.recipetineats.com/homemade-baked-beans-bacon-southern-style/)
+* [Sesame Ginger Chickpeas](/recipes/dinners/sesame-ginger-chickpeas.md)
 
 ## Sides
 
